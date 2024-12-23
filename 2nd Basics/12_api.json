@@ -1,0 +1,13 @@
+{
+  "userName": "Mohammad Kaif",
+  "emailId": "iamkaif.india@gmail.com",
+  "password": "12345",
+  "mobileNo": 9661949280,
+  "isLogedIn": false,
+  "address": {
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India"
+  },
+  "laptop": "MSI GF 63"
+}
